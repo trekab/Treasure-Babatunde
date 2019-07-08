@@ -63,3 +63,22 @@
 #navbar .navbar__link:hover{
     color: rgb(223, 219, 219);
 }
+
+.projects-grid{
+	display: flex;
+	flex-flow: wrap;
+	justify-content: center;
+}
+
+.projects-section {    
+	text-align: center;     
+	padding: 10rem 2rem;     
+	background: #45567d; 
+}
+
+.projects-section-header {     
+	max-width: 640px;     
+	margin: 0 auto 6rem auto;     
+	border-bottom: 0.2rem solid white; 
+}
+
